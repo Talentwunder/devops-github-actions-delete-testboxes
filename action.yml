@@ -1,0 +1,7 @@
+name: "Delete S3"
+description: "Delete S3 bucket when branch is merged or deleted"
+author: heksahiti
+runs:
+  using: docker
+  image: Dockerfile
+
